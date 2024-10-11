@@ -1,13 +1,13 @@
 Pod::Spec.new do |spec|
   spec.name         = "JTQRCode"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "JTQRCode is a framework that simplifies integrating QR code generation and scanning into iOS apps."
   spec.description  = <<-DESC
   With a suite of customizable components, JTQRCode allows you to generate, display, and scan QR codes effortlessly, enhancing the user experience within your app.
                    DESC
 
   spec.homepage     = "https://github.com/Enryun/JTQRCode"
-  # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
+  spec.screenshots  = "https://github.com/user-attachments/assets/37a30266-bd24-4b01-99b5-c002a4941d81", "https://github.com/user-attachments/assets/84dc2277-2a95-4ace-a819-a857ece9510a"
 
 
   spec.homepage     = "https://github.com/Enryun/Common_SwiftUI"
