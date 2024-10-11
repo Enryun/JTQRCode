@@ -7,8 +7,6 @@ Pod::Spec.new do |spec|
                    DESC
 
   spec.homepage     = "https://github.com/Enryun/JTQRCode"
-  spec.screenshots  = "https://github.com/user-attachments/assets/37a30266-bd24-4b01-99b5-c002a4941d81", "https://github.com/user-attachments/assets/84dc2277-2a95-4ace-a819-a857ece9510a"
-
 
   spec.homepage     = "https://github.com/Enryun/Common_SwiftUI"
   
