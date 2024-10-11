@@ -23,8 +23,8 @@
 `JTQRCode` is a powerful SwiftUI framework that simplifies the integration of QR code functionality into your iOS applications. With a suite of customizable components, our SDK allows you to generate, display, and scan QR codes effortlessly, enhancing the user experience within your app.
 
 <img src="https://github.com/user-attachments/assets/37a30266-bd24-4b01-99b5-c002a4941d81" width="220">
-<img src="https://github.com/user-attachments/assets/2f0a9589-7e27-4ad4-acbe-04d70be9fe1b" width="220">
-<img src="https://github.com/user-attachments/assets/1f2f5d2b-1b7f-4797-b71b-de7bcf4831a0" width="220">
+<img src="https://github.com/user-attachments/assets/84dc2277-2a95-4ace-a819-a857ece9510a" width="220">
+<img src="https://github.com/user-attachments/assets/4ab89389-ffcf-4c54-864a-89855f7fe152" width="220">
 
 ## Requirements
 
@@ -112,9 +112,9 @@ Methods:
 - `generateQRCode(from url: URL, ...)`: Generates a QR code image from a URL.
 - `generateQRCode(from data: Data, ...)`: Generates a QR code image directly from binary data.
 
-<img src="https://github.com/user-attachments/assets/b4d135a4-f153-488d-a52b-8ba68eebf791" width="220">
-<img src="https://github.com/user-attachments/assets/b4416ec5-21cd-4d28-b2b6-97f4007d9b52" width="220">
-<img src="https://github.com/user-attachments/assets/24afba21-5e8e-4441-ba90-dbe2ce58924a" width="220">
+<img src="https://github.com/user-attachments/assets/bb1ff5d6-5af5-4a96-b5b7-e54522c17fbe" width="220">
+<img src="https://github.com/user-attachments/assets/02bf47ae-77a9-4d28-9312-873014e51d20" width="220">
+<img src="https://github.com/user-attachments/assets/84dc2277-2a95-4ace-a819-a857ece9510a" width="220">
 
 A utility struct for generating QR codes from various types of inputs with options for customization.
 
